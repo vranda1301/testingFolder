@@ -1,1 +1,2 @@
 Hi there!!!! This is the 6th file.
+This is my repo for the understanding of git and github.
